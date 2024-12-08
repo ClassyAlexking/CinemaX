@@ -1,0 +1,30 @@
+[
+ {
+  "CustomerID": 1,
+  "PersonalID": 1,
+  "MembershipLevel": "VVIP",
+  "Point": 1500,
+  "JoinDate": "2020-05-01T00:00:00.000Z"
+ },
+ {
+  "CustomerID": 2,
+  "PersonalID": 2,
+  "MembershipLevel": "VIP",
+  "Point": 800,
+  "JoinDate": "2021-07-15T00:00:00.000Z"
+ },
+ {
+  "CustomerID": 3,
+  "PersonalID": 8,
+  "MembershipLevel": "Member",
+  "Point": 200,
+  "JoinDate": "2022-10-10T00:00:00.000Z"
+ },
+ {
+  "CustomerID": 4,
+  "PersonalID": 10,
+  "MembershipLevel": "VVIP",
+  "Point": 3000,
+  "JoinDate": "2019-03-25T00:00:00.000Z"
+ }
+]

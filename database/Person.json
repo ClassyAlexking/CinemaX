@@ -1,0 +1,112 @@
+[
+ {
+  "PersonalID": 1,
+  "SSN": "012345678901",
+  "FName": "Nguy?n",
+  "MName": "Van",
+  "LName": "A",
+  "Sex": "Male",
+  "Birthdate": "1995-05-15T00:00:00.000Z",
+  "Email": "nguyen.a@example.com",
+  "Phone": "0909123456"
+ },
+ {
+  "PersonalID": 2,
+  "SSN": "123456789012",
+  "FName": "Nguyen",
+  "MName": "Phu",
+  "LName": "Tue",
+  "Sex": "Male",
+  "Birthdate": "2004-08-17T00:00:00.000Z",
+  "Email": "tue.nguyenphu@hcmut.edu.vn",
+  "Phone": "0868499140"
+ },
+ {
+  "PersonalID": 3,
+  "SSN": "234567890123",
+  "FName": "Ph?m",
+  "MName": "Hoàng",
+  "LName": "C",
+  "Sex": "Male",
+  "Birthdate": "1990-01-12T00:00:00.000Z",
+  "Email": "pham.c@example.com",
+  "Phone": "0933456789"
+ },
+ {
+  "PersonalID": 4,
+  "SSN": "345678901234",
+  "FName": "Tr?n",
+  "MName": "Ng?c",
+  "LName": "D",
+  "Sex": "Female",
+  "Birthdate": "2000-07-08T00:00:00.000Z",
+  "Email": "tran.d@example.com",
+  "Phone": "0945678901"
+ },
+ {
+  "PersonalID": 5,
+  "SSN": "456789012345",
+  "FName": "Vu",
+  "MName": "Qu?c",
+  "LName": "E",
+  "Sex": "Male",
+  "Birthdate": "1985-03-20T00:00:00.000Z",
+  "Email": "vu.e@example.com",
+  "Phone": "0987654321"
+ },
+ {
+  "PersonalID": 6,
+  "SSN": "567890123456",
+  "FName": "Ð?ng",
+  "MName": "Kim",
+  "LName": "F",
+  "Sex": "Female",
+  "Birthdate": "1993-11-05T00:00:00.000Z",
+  "Email": "dang.f@example.com",
+  "Phone": "0971234567"
+ },
+ {
+  "PersonalID": 7,
+  "SSN": "678901234567",
+  "FName": "Hoàng",
+  "MName": "Anh",
+  "LName": "G",
+  "Sex": "Male",
+  "Birthdate": "1988-09-17T00:00:00.000Z",
+  "Email": "hoang.g@example.com",
+  "Phone": "0964567890"
+ },
+ {
+  "PersonalID": 8,
+  "SSN": "789012345678",
+  "FName": "Ðinh",
+  "MName": "Thanh",
+  "LName": "H",
+  "Sex": "Female",
+  "Birthdate": "1997-12-30T00:00:00.000Z",
+  "Email": "dinh.h@example.com",
+  "Phone": "0953456789"
+ },
+ {
+  "PersonalID": 9,
+  "SSN": "890123456789",
+  "FName": "Truong",
+  "MName": "Bá",
+  "LName": "K",
+  "Sex": "Male",
+  "Birthdate": "1994-06-19T00:00:00.000Z",
+  "Email": "truong.k@example.com",
+  "Phone": "0923456789"
+ },
+ {
+  "PersonalID": 10,
+  "SSN": "901234567890",
+  "FName": "Lý",
+  "MName": "Hà",
+  "LName": "L",
+  "Sex": "Female",
+  "Birthdate": "2002-08-14T00:00:00.000Z",
+  "Email": "ly.l@example.com",
+  "Phone": "0935678901"
+ }
+]

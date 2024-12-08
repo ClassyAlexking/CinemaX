@@ -1,0 +1,92 @@
+[
+ {
+  "TicketID": 2,
+  "OrderID": 2,
+  "ScreenID": 1,
+  "MovieSchedID": 1,
+  "SeatNo": "A1",
+  "TPrice": 80000,
+  "Status": "Booked"
+ },
+ {
+  "TicketID": 3,
+  "OrderID": 2,
+  "ScreenID": 2,
+  "MovieSchedID": 1,
+  "SeatNo": "A2",
+  "TPrice": 80000,
+  "Status": "Booked"
+ },
+ {
+  "TicketID": 4,
+  "OrderID": 2,
+  "ScreenID": 3,
+  "MovieSchedID": 2,
+  "SeatNo": "A2",
+  "TPrice": 120000,
+  "Status": "Booked"
+ },
+ {
+  "TicketID": 5,
+  "OrderID": 3,
+  "ScreenID": 4,
+  "MovieSchedID": 3,
+  "SeatNo": "C1",
+  "TPrice": 150000,
+  "Status": "Booked"
+ },
+ {
+  "TicketID": 6,
+  "OrderID": 3,
+  "ScreenID": 5,
+  "MovieSchedID": 3,
+  "SeatNo": "A3",
+  "TPrice": 150000,
+  "Status": "Cancelled"
+ },
+ {
+  "TicketID": 7,
+  "OrderID": 4,
+  "ScreenID": 6,
+  "MovieSchedID": 4,
+  "SeatNo": "A3",
+  "TPrice": 70000,
+  "Status": "Booked"
+ },
+ {
+  "TicketID": 8,
+  "OrderID": 5,
+  "ScreenID": 6,
+  "MovieSchedID": 5,
+  "SeatNo": "C1",
+  "TPrice": 110000,
+  "Status": "Used"
+ },
+ {
+  "TicketID": 9,
+  "OrderID": 5,
+  "ScreenID": 5,
+  "MovieSchedID": 5,
+  "SeatNo": "C1",
+  "TPrice": 110000,
+  "Status": "Used"
+ },
+ {
+  "TicketID": 10,
+  "OrderID": 3,
+  "ScreenID": 3,
+  "MovieSchedID": 6,
+  "SeatNo": "C1",
+  "TPrice": 160000,
+  "Status": "Cancelled"
+ },
+ {
+  "TicketID": 11,
+  "OrderID": 4,
+  "ScreenID": 4,
+  "MovieSchedID": 6,
+  "SeatNo": "C1",
+  "TPrice": 160000,
+  "Status": "Booked"
+ }
+]
